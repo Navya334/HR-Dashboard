@@ -53,4 +53,4 @@ This dashboard empowers stakeholders to:
 * Understand employee trends at a glance
 * Detect attrition-prone groups
 * Align HR efforts with data-driven insights
-- ![HR Dashboard](HR_Dashboard.pdf)
+- ![HR Dashboard](HR_Dashboard.jpg)
